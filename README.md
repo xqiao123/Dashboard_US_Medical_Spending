@@ -8,7 +8,7 @@ The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities
 
 ## Dashboard Description
 
-This dashboard displays the MSPB in contiguous states in US, and also explore what some variables may have influence on the MSPB.
+This dashboard displays the Medicare Spending Per Beneficiary (MSPB) in contiguous states in US, and also explore what some variables may have influence on the MSPB.
 The user can observe how plots (one map plot and two scatter plots) and table results change through selecting 'Yes'/'No' or both on 'Obamacare Checklist', and setting the range of 'Unemployment Rate Slider' and 'Smoking Rate SLider'.
 
 
