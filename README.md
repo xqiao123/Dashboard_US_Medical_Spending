@@ -2,9 +2,7 @@
 
 This repository contains files used in the MA705 dashboard project.
 
-Use Markdown to write your readme.md file.  Here is a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
-
-The final dashboard is deployed on Heroku [here](https://ma705bostonuniversities.herokuapp.com).
+The final dashboard is deployed on Heroku [here](https://individual-project0.herokuapp.com/).
 
 ## Dashboard Description
 
@@ -16,7 +14,7 @@ The user can observe how plots (one map plot and two scatter plots) and table re
 
 I use two datasets to build this dashboard.
 
-The first dataset 'medical.csv' is the one that I had last semester for the group project in ST625 class taught by Prof. Chervey, 
+The first dataset 'medical.csv' is the one that I had last semester for the group project in ST625 class taught by Prof. Cherveny, 
 my teammates and I found the .csv file from the website https://www.kff.org/state-category/medicare/medicare-enrollment-by-eligibility-category/
 through searching some categories we were interested in to export, and we collected and added more columns like 'Obamacare' to this 
 file and calculated the (Average) Medicare Spending Per Beneficiary through using Medicare Spending divided by Medicare Beneficiaries.
