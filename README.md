@@ -26,6 +26,3 @@ so I can create a new geo data frame through merging above two datasets on the s
 To better show states in the format as map, I removed states that are not in the contiguous US and also convert 0/1 in Obamacare variable to 'Yes'/'No' to make users understand better, and edit the column name through removing underscore '_' to show the table more clear.
 
 
-### Other Comments
-
-Anything you'd like to add
