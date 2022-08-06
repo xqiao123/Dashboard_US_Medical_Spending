@@ -1,7 +1,7 @@
 # Medicare Spending Per Beneficiary By State in 2018 Dashboard
+Xuefei Qiao
 
 This repository contains files used in the MA705 dashboard project.
-
 The final dashboard is deployed on Heroku [here](https://individual-project0.herokuapp.com/).
 
 ## Dashboard Description
